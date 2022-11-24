@@ -4,11 +4,11 @@ public class Driver {
 
 	private static int funcRicorsiva(int n) {
 
-		if (n % 2 == 0) {
-			
+		if (n % 2 == 0)
+
 			return 0;
-		}
-		System.out.println(n/2);
+
+		System.out.println(n / 2);
 		return funcRicorsiva((n / 2) + 1);
 	}
 
