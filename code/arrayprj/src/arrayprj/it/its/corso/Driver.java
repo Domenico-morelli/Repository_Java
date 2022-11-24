@@ -9,7 +9,7 @@ public class Driver {
 		Scanner scanner = new Scanner(System.in);
 
 		for (int i = 0; i < 10; i++) {
-			System.out.println("Inserisci il valore " + i);
+			System.out.println("Inserisci il valore " + (i+1));
 
 			array[i] = scanner.nextInt();
 		}
