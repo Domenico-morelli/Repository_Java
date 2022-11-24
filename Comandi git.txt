@@ -19,5 +19,5 @@ Crea un nuovo branch
 Entra nel branch nomeBranch
 
 -git branch -d nomeBranch
-Elimin il branch nomeBranch
+Elimina il branch nomeBranch
 
