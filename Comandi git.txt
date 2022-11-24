@@ -34,7 +34,8 @@ Esegue una commit in locale del file
 
 -Aprire il terminale
 -Entrare nella directory della repo
--Eseguire il comando git add pathFile(oppure * per tenere traccia di tutto)
+-Eseguire il comando git add pathFile per 
+tenere traccia di un file (oppure * per tenere traccia di tutto)
 -Eseguire il comando di commit per salvare in locale
 -Eseguire un eventuale merge se necessario
 -Eseguire il comando git push per salvare in remoto
