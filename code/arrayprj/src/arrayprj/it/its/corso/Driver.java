@@ -14,7 +14,7 @@ public class Driver {
 			array[i] = scanner.nextInt();
 		}
 		for (int i = 0; i < 10; i++) {
-			System.out.println("Inserisci il valore " + array[i]);
+			System.out.println("valore in posizione " + i + " dell'array " + +array[i]);
 
 		}
 
