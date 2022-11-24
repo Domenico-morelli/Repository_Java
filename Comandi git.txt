@@ -1,0 +1,20 @@
+-Comandi Git-
+
+-git clone Url-Repository
+Clona un repository dato l'url
+
+-git add * 
+Tiene traccia di tutte le modifiche apportate in locale
+
+-git add nome_file
+Tiene traccia di un file in locale
+
+-git branch 
+Visualizza il branch corrente
+
+-git branch nomeBranch
+Crea un nuovo branch
+
+-git checkout nomeBranch
+Entra nel branch nomeBranch
+
