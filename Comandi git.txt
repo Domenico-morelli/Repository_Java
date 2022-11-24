@@ -1,14 +1,17 @@
--Comandi Git-
+-------------------------Comandi Git--------------------------
 
 -git clone Url-Repository
 Clona un repository dato l'url
 
+---Tracking dei file-
 -git add * 
 Tiene traccia di tutte le modifiche apportate in locale
 
 -git add nome_file
 Tiene traccia di un file in locale
 
+
+--Branch--
 -git branch 
 Visualizza il branch corrente
 
@@ -20,4 +23,19 @@ Entra nel branch nomeBranch
 
 -git branch -d nomeBranch
 Elimina il branch nomeBranch
+
+--Commit--
+-git commit -m "nomeCommit"
+Esegue una commit in locale del file
+
+-------Tutorial-----
+
+-Step per pushare una repository
+
+-Aprire il terminale
+-Entrare nella directory della repo
+-Eseguire il comando git add pathFile(oppure * per tenere traccia di tutto)
+-Eseguire il comando di commit per salvare in locale
+-Eseguire un eventuale merge se necessario
+-Eseguire il comando git push per salvare in remoto
 
