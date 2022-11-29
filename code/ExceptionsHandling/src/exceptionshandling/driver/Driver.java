@@ -18,6 +18,9 @@ public class Driver {
 		} catch (InputMismatchException e) {
 			System.out.println(e);
 
+		}catch (Exception e) {
+			System.out.println(e);
+
 		}
 
 		Arrays.sort(array);
