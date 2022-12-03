@@ -18,13 +18,13 @@ public class Driver {
 		} catch (InputMismatchException e) {
 			System.out.println(e);
 
-		}catch (Exception e) {
+		} catch (Exception e) {
 			System.out.println(e);
 
 		}
 
 		Arrays.sort(array);
-		
+
 		for (int arr : array) {
 			System.out.println(arr);
 		}
